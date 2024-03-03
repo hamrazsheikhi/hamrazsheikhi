@@ -1,4 +1,5 @@
-![Header](./[github-header-image.png])
+![Header](./github-header-image.png)
+
 
 # 👋 Hi, I’m Hamraz Sheikhi
 
