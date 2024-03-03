@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Hamraz Sheikhi
 
-A dedicated software professional based in Tehran, specializing in software testing, systems support, and providing technical leadership. With years of experience in ensuring software quality and efficiency, I'm passionate about leveraging technology to solve complex problems and enhance user experiences.
+A dedicated software professional based in Tehran, specializing in software testing, systems support, and providing technical leadership. With years of experience as a fullstack developer, I'm passionate about leveraging technology to solve complex problems and enhance user experiences.
 
 ## 👀 I’m interested in
 - Exploring advanced concepts in object-oriented programming to enhance software design and architecture.
