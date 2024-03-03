@@ -5,22 +5,20 @@
 
 A dedicated software professional based in Tehran, specializing in software testing, systems support, and providing technical leadership. With years of experience in ensuring software quality and efficiency, I'm passionate about leveraging technology to solve complex problems and enhance user experiences.
 
-## 👀 I’m interested in
-- Developing and refining software testing methodologies.
-- Enhancing system support frameworks for optimal performance.
-- Employing project management and teamwork to achieve technical goals.
-- Exploring new technologies and tools in the field of quality assurance.
+##👀 I’m interested in
+-Exploring advanced concepts in object-oriented programming to enhance software design and architecture.
+-Delving into database management and optimization techniques to ensure efficient data handling in applications.
+-Embracing software development processes and tools to streamline project workflows and collaboration.
 
-## 🌱 I’m currently learning
-- Advanced techniques in automated testing with Selenium and Azure DevOps.
-- Cloud computing services, particularly Microsoft Azure.
-- Enhancements in database management and operations using SQL Server.
-- Continuous integration and continuous deployment (CI/CD) practices.
+##🌱 I’m currently learning
+-Parallel computing principles to leverage the power of modern hardware for faster and more scalable applications.
+-Algorithms and data structures to improve problem-solving skills and optimize software performance.
+-Research methodologies to contribute to academic exploration and advancements in computer science.
 
-## 💞️ I’m looking to collaborate on
-- Projects focused on software quality improvement and user experience enhancement.
-- Initiatives that aim to streamline software development processes and tools.
-- Teams that value innovation, problem-solving, and effective communication.
+##💞️ I’m looking to collaborate on
+-Projects focused on frontend development and UI/UX design to create visually appealing and user-friendly interfaces.
+-Initiatives involving software quality improvement and user experience enhancement through innovative solutions.
+-Opportunities to work with frontend frameworks and tools to build cutting-edge web applications.
 
 ## 📫 How to reach me
 - Email: hamrazsheikhi23@gmail.com
