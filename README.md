@@ -20,9 +20,13 @@ A dedicated software professional based in Tehran, specializing in software test
 - Initiatives involving the integration of frontend frameworks and tools to build cutting-edge web applications, while applying principles of parallel computing, computer networks, and databases.
 - Contributing to an open-source project focused on helping new programmers learn coding in a more proficient way, leveraging algorithms, data structures, and best practices in software development processes and tools.
 
-## 📫 How to reach me
-- Email: hamrazsheikhi23@gmail.com
-  
 ## ⚡ Fun fact
 In my free time, I enjoy jogging through the serene trails of Tehran, diving into the worlds within books, and hiking the rugged landscapes of Iran.
 Movies and music are my go-to sources of relaxation and inspiration. These activities help me maintain a balanced life and fuel my creativity and problem-solving skills in the tech world.
+
+## 🚀 Entry to GitHub 
+Throughout my years of experience, the companies I worked for utilized their own local Git version control system to manage codebases efficiently. Despite this, I did not have a personal GitHub account until now. I am excited to finally join the GitHub community, where I look forward to collaborating on projects, contributing to open-source initiatives, and further enhancing my skills while engaging with the global developer community.
+
+## 📫 How to reach me
+- Email: hamrazsheikhi23@gmail.com
+  
